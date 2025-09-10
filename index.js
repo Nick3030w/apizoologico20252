@@ -4,7 +4,7 @@ const port = 3000
 
 app.get(
     '/', (req, res) => {
-        res.send('¡Hola mundo!')
+        res.send('Buenas tardes como estas espero que muy bien, yo estoy muy mal')
     }
 );
 
